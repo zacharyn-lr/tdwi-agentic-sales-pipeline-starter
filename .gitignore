@@ -10,3 +10,4 @@ WORKSHOP_LAYOUT.md
 .cursor/rules/course-authoring.mdc
 .ipynb_checkpoints/
 .pytest_cache/
+.venv
